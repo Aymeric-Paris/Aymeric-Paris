@@ -1,6 +1,9 @@
-# Salut, je suis Aymeric Paris :speaker:
+<p align="center">
+  # Salut,bienvenue! je suis Aymeric Paris :wave:
+</p>
+# Salut,bienvenue! je suis Aymeric Paris :wave:
 
-J'aime associer l'imagination et la création
+
 <!--
 **Aymeric-Paris/Aymeric-Paris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
