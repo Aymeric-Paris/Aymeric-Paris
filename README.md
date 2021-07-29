@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   # Salut,bienvenue! je suis Aymeric Paris :wave:
-</p>
+</h1>
 # Salut,bienvenue! je suis Aymeric Paris :wave:
 
 
