@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
 ![Cover](https://github.com/Aymeric-Paris/Aymeric-Paris/blob/main/img/aymeric1.png)
+  </p>
 
 <!--
 **Aymeric-Paris/Aymeric-Paris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
