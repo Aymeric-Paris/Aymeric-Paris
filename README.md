@@ -1,4 +1,4 @@
-# Salut, je suis Aymeric Paris :mega:
+# Salut, je suis Aymeric Paris :speaker:
 
 J'aime associer l'imagination et la création
 <!--
