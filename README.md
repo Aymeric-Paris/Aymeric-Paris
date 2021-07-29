@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Aymeric-Paris/Aymeric-Paris/blob/main/img/aymeric1.png/460/300">
+  <img width="460" height="300" src="https://github.com/Aymeric-Paris/Aymeric-Paris/blob/main/img/aymeric1.png">
 </p>
 <!--
 **Aymeric-Paris/Aymeric-Paris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
