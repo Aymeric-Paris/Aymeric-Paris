@@ -1,7 +1,6 @@
 <h1 align="center">
-  # Salut,bienvenue! je suis Aymeric Paris :wave:
+   Salut,bienvenue! je suis Aymeric Paris :wave:
 </h1>
-# Salut,bienvenue! je suis Aymeric Paris :wave:
 
 
 <!--
